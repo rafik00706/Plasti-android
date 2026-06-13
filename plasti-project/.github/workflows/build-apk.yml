@@ -1,0 +1,3 @@
+{this.textContent='✓ تم النسخ!';setTimeout(()=>{this.innerHTML='
+انسخ محتوى build-apk.yml'},2000)})">
+انسخ محتوى build-apk.yml
